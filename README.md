@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adza Zarif Nur Iskandar,you can call me zarif
 - 👀 I’m interested in Web Progamming
-- 🌱 I’m currently learning object oriented progamming java and learn javascript framework
+- 🌱 I’m currently learning laravel framework and learn javascript framework
 - 📫 How to reach me follow me on email adzazarf@gmail.com
 
 ## Github Performance
