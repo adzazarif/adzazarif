@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adza Zarif Nur Iskandar</h1>
+<h1 align="center">Hi 👋, I'm Adza Zarif Nur Iskandar.</h1>
 <h3 align="center">I am a student majoring in information technology in the informatics engineering study program at the Jember State Polytechnic. My love for software is the fuel that fuels my passion to continue learning and developing.</h3>
 
 - 🌱 I’m currently learning **Artificial intelligence and Internet of Things**
