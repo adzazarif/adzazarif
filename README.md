@@ -51,9 +51,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adzazarif&theme=algolia" alt="GitHub Streak"/>
 </p>
-
----
-
-<p align="center">
-  ✨ _"Code is like humor. When you have to explain it, it’s bad."_ ✨
-</p>
