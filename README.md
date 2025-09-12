@@ -45,7 +45,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adzazarif&show_icons=true&theme=algolia" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adzazarif&layout=compact&theme=algolia" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adzazarif&show_icons=true&locale=en&layout=compact&theme=algolia" alt="adzazarif" />
 </p>
 
 <p align="center">
