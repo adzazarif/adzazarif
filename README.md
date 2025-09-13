@@ -3,7 +3,7 @@
 
 <p align="center">
   I am passionate about <b>software development</b> and love exploring new technologies.  
-  Currently, I'm diving into <b>Artificial Intelligence</b> 🤖 and <b>Internet of Things</b> 🌐.  
+  Currently, I'm diving into Web Developer 🤖 and <b>Internet of Things</b> 🌐.  
   My journey is driven by curiosity and the desire to keep learning and building impactful solutions 🚀.
 </p>
 
@@ -11,7 +11,7 @@
 
 ### 🌱 What I'm Learning
 - Artificial Intelligence & Internet of Things  
-- Fullstack Web Development (React, Node.js, Laravel)
+- Fullstack Web Development (React, Node.js, Golang, Next.js, Nest.js)
 
 ### 👀 Interests
 - Web Programming  
