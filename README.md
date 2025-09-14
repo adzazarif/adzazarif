@@ -6,6 +6,14 @@
   Currently, I'm diving into Web Developer 🤖 and <b>Internet of Things</b> 🌐.  
   My journey is driven by curiosity and the desire to keep learning and building impactful solutions 🚀.
 </p>
+<p align="center">
+  <a href="https://linkedin.com/in/adzazarif" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://instagram.com/adzazarifnur" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+</p>
 
 ---
 
@@ -17,21 +25,6 @@
 - Web Programming  
 - Software Development  
 - UI/UX & Product Design  
-
-### 📫 Reach Me At
-- Email: **adzazarf@gmail.com**  
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/adzazarif" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://instagram.com/adzazarifnur" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-</p>
 
 ---
 
