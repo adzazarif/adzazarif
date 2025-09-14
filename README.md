@@ -37,7 +37,7 @@
 
 ## 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,bootstrap,css,figma,flutter,html,java,js,laravel,mysql,php,postman,python,react,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=arduino,bootstrap,css,figma,flutter,html,java,js,laravel,mysql,php,postman,python,react,tailwind,nodejs,golang,next,nest,typescript" />
 </p>
 
 ---
