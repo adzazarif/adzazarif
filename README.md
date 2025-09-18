@@ -41,9 +41,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adzazarif&theme=algolia&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adzazarif&theme=tokyo-night&hide_border=true" height="200"/>
 </p>
