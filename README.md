@@ -33,7 +33,6 @@
 
 ---
 
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adzazarif&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" height="180"/>
