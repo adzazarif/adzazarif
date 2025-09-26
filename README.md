@@ -14,7 +14,6 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </p>
-
 ---
 ### 🏆 Achievements & Awards
 
@@ -24,7 +23,6 @@
 * **🎖️ Harapan 1 - TIF Exhibition 2024**
 * **🎖️ Finalis - Hackfest UC 2025**
 ---
-
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,bootstrap,css,figma,flutter,html,java,js,laravel,mysql,php,postman,python,react,tailwind,nodejs,golang,next,nest,typescript" />
@@ -36,7 +34,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adzazarif&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adzazarif&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="adzazarif" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adzazarif&theme=tokyo-night&hide_border=true" height="200"/>
 </p>
