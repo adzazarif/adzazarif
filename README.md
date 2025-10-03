@@ -23,6 +23,7 @@
 * **🥉 Juara 3 - National Competition Play IT 2024**
 * **🎖️ Harapan 1 - TIF Exhibition 2024**
 * **🎖️ Finalis - Hackfest UC 2025**
+
 ---
 ### 🛠️ Languages and Tools
 <p align="left">
