@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </p>
----
+
 ### 🏆 Achievements & Awards
 
 * **🥇 Juara 1 - UM SDGs Hackathon National Competition 2024**
@@ -28,7 +28,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,bootstrap,css,figma,flutter,html,java,js,laravel,mysql,php,postman,python,react,tailwind,nodejs,golang,next,nest,typescript" />
 </p>
----
 
 ### 📊 GitHub Stats
 <p align="center">
